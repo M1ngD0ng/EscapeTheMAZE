@@ -2,7 +2,7 @@
 OLED 화면을 보며 조이스틱을 움직여 미로를 탈출하는 게임기
 
 ## 구성
-<img width="660" alt="스크린샷 2022-07-03 오후 11 07 00" src="https://user-images.githubusercontent.com/60657536/177043478-d25be747-a262-4967-b8d0-5c6c0038eed0.png">
+<img width="450" alt="스크린샷 2022-07-03 오후 11 07 00" src="https://user-images.githubusercontent.com/60657536/177043478-d25be747-a262-4967-b8d0-5c6c0038eed0.png">
 
 ## 회로도
 <img width="476" alt="image" src="https://user-images.githubusercontent.com/60657536/177043460-c9a5db03-5665-4700-b218-11d0e6f0aa96.png">
